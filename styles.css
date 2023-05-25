@@ -77,6 +77,12 @@
     border-radius: 10px;
 }
 
+.about-underline {
+    border: 5px solid #06ffc5;
+    border-radius: 10px;
+    width: 10%;
+}
+
 .btn-3 {
     background-color: #06ffc5;
     color: #101727;
@@ -94,7 +100,7 @@
 .nav-link {
     font-size: 1.5rem;
     color: #68709a;
-    font-weight: bold;
+    font-weight: 300;
 }
 
 .nav-link:hover {
@@ -103,4 +109,12 @@
 
 .active {
     color: white;
+}
+
+.about-first {
+    font-size: large;
+}
+
+.why-para {
+    font-size: large;
 }
