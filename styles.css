@@ -131,3 +131,10 @@
     border-radius: 10px;
     ;
 }
+
+.btn-courses {
+    background-color: #06ffc5;
+    border: solid #101727 3px;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
