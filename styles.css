@@ -129,7 +129,11 @@
 .feature-box {
     border: solid 5px white;
     border-radius: 10px;
-    ;
+}
+
+.box-courses {
+    border: solid 1px #101727;
+    border-radius: 10px;
 }
 
 .btn-courses {
@@ -137,4 +141,10 @@
     border: solid #101727 3px;
     border-radius: 10px;
     font-size: 1.5rem;
+}
+
+.img-courses {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
 }
